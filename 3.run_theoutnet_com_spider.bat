@@ -1,0 +1,2 @@
+call python run_spiders.py theoutnet_com_spider
+pause
